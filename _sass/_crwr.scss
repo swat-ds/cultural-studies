@@ -1,0 +1,68 @@
+// Creative Writing Outreach Course Digital Portfolio Styles 
+.greedy-nav .visible-links a:before {
+    background: #000;
+}
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 0;
+}
+
+.page__footer-follow, .page__footer-copyright {
+    margin-top: 0;
+}
+
+.page__footer-copyright {
+    font-family: $header-font-family;
+    font-size: $type-size-6;
+    text-align: right;
+}
+
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+.page__hero--overlay {
+    background-attachment: fixed;
+    min-height: 20rem;
+}
+
+.feature__wrapper {
+
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    .feature__item {
+        max-width: 350px;
+        img {
+            height: 250px;
+        }
+    }
+
+    .archive__item {
+        transition: opacity .5s ease-out;
+        -webkit-transition: opacity .5s ease-out;
+        -moz-transition: opacity .5s ease-out;
+    }
+
+    .archive__item:hover {
+        opacity: .5;
+    }
+}
+
+.about .page__content img {
+    max-height: 150px;
+}
+
+.layout--single .page__hero {
+    overflow: hidden;
+    max-height: 20rem;
+    text-align: center;
+
+    img {
+        width: 200%;
+    }
+}
