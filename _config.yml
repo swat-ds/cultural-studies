@@ -20,8 +20,8 @@ title                    : "Creative Writing Outreach"
 title_separator          : "-"
 name                     : "Laynie Browne"
 description              : "Creative Writing Outreach Course Digital Portfolio"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+url                      : "http://ds.swarthmore.edu"
+baseurl                  : "/creative-writing-outreach"
 repository               : "swat-ds/crwr-outreach"
 teaser                   : "/assets/images/fallback.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -267,4 +267,5 @@ defaults:
       comments: # true
       share: false
       related: true
+      btn_class: 'btn--inverse'
 

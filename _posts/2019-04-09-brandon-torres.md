@@ -14,35 +14,35 @@ gallery:
   - url: /assets/images/brandon-student1.png
     image_path: /assets/images/brandon-student1.png
     alt: "Example of Student Work 1"
-    title: "Example of Student Work"
+    title: 'I am afraid of solitude<br/>This fear is burdensome<br/>because there is nothing<br/>more hurting than solitude<br/>That the world fills up with<br/>solitude and there is no more company.<br/>No one with left joke with'
   - url: /assets/images/brandon-student2.png
     image_path: /assets/images/brandon-student2.png
     alt: "Example of Student Work 2"
-    title: "Example of Student Work"
+    title: 'I am afraid of the flow of the river<br/>It could be that it binds me to life, to the earth.<br/>It could be that it runs out of oxygen if there is no nature.<br/>I am afraid that the current takes me and leaves me in some place <br/>alone that I do not know.'
   - url: /assets/images/brandon-student3.png
     image_path: /assets/images/brandon-student3.png
     alt: "Example of Student Work 3"
-    title: "Example of Student Work"
+    title: 'I am afraid of the fish<br/>Because they feel so disgusting in your feet and at times, they itch.<br/>I do not want to go from being human to fish food.'
   - url: /assets/images/brandon-student4.png
     image_path: /assets/images/brandon-student4.png
     alt: "Example of Student Work 4"
-    title: "Example of Student Work"
+    title: 'I am afraid to fear my fears<br/>That I had when I was small,<br/>Because sometimes our fears<br/>are larger than what we have<br/><br/>And what we feel.'
   - url: /assets/images/brandon-student5.png
     image_path: /assets/images/brandon-student5.png
     alt: "Example of Student Work 5"
-    title: "Example of Student Work"
+    title: 'I am afraid of snakes and earthquakes.<br/>That the booming sound of the earthquakes become eternal<br/>And that I live with that fear all my life<br/>It will hurt me if something happened to my family'
   - url: /assets/images/brandon-student6.png
     image_path: /assets/images/brandon-student6.png
     alt: "Example of Student Work 6"
-    title: "Example of Student Work"
+    title: 'I am afraid that a serpent would bite me <br/>And I could die<br/>And then no one would cry for me.<br/>And the venom would run<br/>through my veins killing me<br/>slowly with pain.'
   - url: /assets/images/brandon-student7.png
     image_path: /assets/images/brandon-student7.png
-    alt: "Example of Student Work 7"
-    title: "Example of Student Work"
+    alt: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017"
+    title: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017 when I practiced this lesson with them."  
   - url: /assets/images/brandon-student8png
     image_path: /assets/images/brandon-student8.png
-    alt: "Example of Student Work 8"
-    title: "Example of Student Work"
+    alt: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017"
+    title: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017 when I practiced this lesson with them."
 
 ---
 My name is Brandon Torres and I am pursuing a special major in English Literature and Education with a Secondary Teacher Education Certificate in English and PA Certification to teach English as a Second Language. Because of an amazing middle school English teacher, I have always been interested in creative writing and have an ultimate dream of one day publishing a novel. Within my own teaching practice, I want to play the same role that many of my English Teachers did for me in school by also sparking my students’ interest in reading and writing and providing a space for them to develop as writers. Within this course, I was able to work with a predominantly Latinx high school student population at Olney High School in their Native Language Literacy course (Spanish). Though I am conversationally fluent in Spanish (having been raised by parents who only speak Spanish), this course further developed my skills in Spanish by situating me in a context where I was using Spanish for instruction and teaching.
@@ -80,6 +80,7 @@ I moved onto the writing activity which required students to take out a piece of
 > I am afraid of the fish
 > Because they feel so disgusting in your feet and at times, they itch.
 > I do not want to go from being human to fish food.
+
 - Translation 3
 
 > I am afraid to fear my fears
@@ -94,6 +95,7 @@ I moved onto the writing activity which required students to take out a piece of
 > That the booming sound of the earthquakes become eternal
 > And that I live with that fear all my life
 > It will hurt me if something happened to my family.
+.
 
 - Translation 5
 
@@ -103,6 +105,7 @@ I moved onto the writing activity which required students to take out a piece of
 > And the venom would run
 > through my veins killing me
 > slowly with pain.
+
 
 With Swarthmore Students
 
