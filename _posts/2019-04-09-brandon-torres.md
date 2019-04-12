@@ -39,7 +39,7 @@ gallery:
     image_path: /assets/images/brandon-student7.png
     alt: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017"
     title: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017 when I practiced this lesson with them."  
-  - url: /assets/images/brandon-student8png
+  - url: /assets/images/brandon-student8.png
     image_path: /assets/images/brandon-student8.png
     alt: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017"
     title: "Collaborative Poem created by Swarthmore’s Creative Writing Outreach Class 2017 when I practiced this lesson with them."
