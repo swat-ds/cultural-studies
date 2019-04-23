@@ -4,12 +4,18 @@ classes: ['about']
 layout: single
 ---
 
-Where do arts, education and activism meet? In this course students explore artistic affinities through creative writing activities and consider arts education and advocacy through diverse texts. Students cultivate skills necessary to becoming Teaching Artists in imaginative writing through coursework as well as through residencies in local schools.  Each student has the opportunity to teach one or more lessons in creative writing toward the end of the semester. Topics covered include: creative curriculum development and presentation, educational climate for grades K-12, and teaching pedagogy. In this archive are statements from students who have taken this course including descriptions of lesson plans and some student writing.
+![group photo of class](/cultural-studies/assets/images/group.jpg)
 
-Creative Writing Outreach is taught by Laynie Browne and is supported by both the English Literature and Educational Studies Departments.
+This class is an introduction to cultural studies: that is, to the study of culture and power. Focusing on fashion, music, debt, art and performance, we will explore a variety of approaches to reading and writing about the phenomenon that we call “culture.” By highlighting the ways in which race, class, sexuality and gender intersect in the creation and consumption of cultural texts, we will also examine how what we read is part of the world in which we live. 
+
+As a survey class, the course will range across a variety of cultural objects that are often beyond the domain of the literary.  The questions that motivate our readings include: How do forms of “high” and “low” culture reflect differences of race, class, sexuality and gender?  What role do aesthetic and material objects play in historical and political movements?  Why should we learn to read visual, aural, and social texts, and in what ways?   
+
+Interdisciplinarity is central to the class, in terms of what we are reading (our texts) as well as how we read them (our analysis).  Literary close reading will frequently be a basis for our investigation, but in our case studies, we will also examine how close reading goes hand in hand with ethnographic method and historical analysis.  As the scholar Irit Rogoff notes, “You don’t spend your life saying, ‘In sociology we do this, but in anthropology we do that; in literary criticism this, but in art history that.’  You get on with it.  And you produce an undisciplined field that is a zone of dis-identification and immensely productive.”
+
+ENGL79: What is Cultural Studies is taught by [Professor Bakirathi Mani](https://www.swarthmore.edu/profile/bakirathi-mani) out of the department of English Literature at Swarthmore College.
 
 <br/>
 
-![mccabe library logo](/assets/images/logo-mccabe-web.png)
+![mccabe library logo](/cultural-studies/assets/images/logo-mccabe-web.png){:.logo}
 
 *Site supported by [Digital Scholarship / Swarthmore College Libraries](http://ds.swarthmore.edu)*

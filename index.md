@@ -1,11 +1,13 @@
 ---
 layout: single
 author_profile: false
+classes: ['splash']
 header:
   overlay_filter: "rgba(100,100,100,.5)"
-  overlay_image: /assets/images/banner.jpg
+  overlay_image: /assets/images/BANERJEE-21-PAFA.jpg
+  caption: '*Make Me a Summary of the World*, 2019, Rina Banerjee, Pennsylvania Academy of Fine Arts'
 include_categories: ['2017']
 ---
-<p>Where do arts, education and activism meet? In this course students explore artistic affinities through creative writing activities and consider arts education and advocacy through diverse texts. Students cultivate skills necessary to becoming Teaching Artists in imaginative writing through coursework as well as through residencies in local schools.  Each student has the opportunity to teach one or more lessons in creative writing toward the end of the semester. Topics covered include: creative curriculum development and presentation, educational climate for grades K-12, and teaching pedagogy. In this archive are statements from students who have taken this course including descriptions of lesson plans and some student writing.</p>
+<p>How do we study culture?  Students in the class worked in pairs and groups to create an interdisciplinary final project, choosing both a single cultural text: fashion, photography, online dating, reality tv.  Their methods of analysis highlight the aesthetic, political, and historical ways in which we understand "culture" as a lived experience in our world as well as a method of examining the text.  Their research culminated in these online platforms and an in-class presentation as well as reflective essay.</p>
 
 {% include posts_row %}
