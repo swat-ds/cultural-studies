@@ -1,6 +1,6 @@
-# Creative Writing Outreach, a child theme of [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+# Cultural Studies, a child theme of [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
 
-Digital Portfolio for the Swarthmore College English Literature/Educational Studies department course.
+Digital Portfolio for the Swarthmore College English Literature course.
 
 ---
 
