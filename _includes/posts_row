@@ -29,12 +29,12 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2 class="archive__item-title">{{ f.title | truncatewords: 10 }}</h2>
           {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
+              {{ f.excerpt | truncatewords: 30 | markdownify }}
             </div>
           {% endif %}
 
