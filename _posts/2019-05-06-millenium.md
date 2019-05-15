@@ -4,20 +4,20 @@ category: ['2019']
 classes: ["hide-sup"]
 excerpt: 'We explore Millennium Dance Complex, a dance studio that specializes in contemporary hip hop, as our site of inquiry. We ask: How does MDC produce, fabricate and brand a new image of diversity in dance?'
 header:
-  overlay_image: /assets/images/colette-blackboard.png
-  teaser: assets/images/colette-blackboard.png
-  alt: "Classroom blackboard with written in chalk"
+  overlay_image: /assets/images/dance-site.jpg
+  teaser: assets/images/dance-thumb.jpg
 contributors:
+  - bio: "Both Bria and Naomi dance and have been dancing together with Rhythm N’ Motion, a tri-college dance company which was created to uplift unrepresented styles particularly originating from the African Diaspora. This love of and interest in dance is what drove their project."
   - name: Bria Dinkins
     bio: ('21) is from West Chester, PA. She is majoring in Sociology/Anthropology with potential minor combinations in Art History, Film & Media Studies or Interpretation Theory.
-    image: /assets/images/anna.jpg
   - name: Naomi Park
     bio: ('21) is from Flushing, NY. She is majoring in English Literature and minoring in Computer Science.
-    image: /assets/images/anna.jpg
 ---
 
-## Digital platform URL
-https://bdinkin1.wixsite.com/danceanddiversity
+[![Dance and Diversity Site Screenshot](/cultural-studies/assets/images/dance-site-thumb.jpg)](https://bdinkin1.wixsite.com/danceanddiversity)
+### [Visit the Dance and Diversity Website](https://bdinkin1.wixsite.com/danceanddiversity)
+
+## Project Description
 
 For our analysis of the Millennium Dance Complex we drew from and adjusted Sara Ahmed’s work "On Being Included". More specifically, we consider her analysis of what the language of diversity does and what it means to brand diversity. We take a look at MDC's mission statement, study some the dance vidoes MDC publishes online, and consider the dance industry as a whole. We wanted to begin to understand a potential relationship between the image of multiculturalism and inclusivity and commercialization. 
 
@@ -29,13 +29,9 @@ The language of the mission statement and the visual are mutually reinforcing. T
 
 [^1][^2][^3][^4][^5][^6][^7][^8][^9][^10]
 
-## Participants (if you'd like to appear on the site)
-
-Both Bria and Naomi dance and have been dancing together with Rhythm N' Motion, a tri-college dance company which was created to uplift unrepresented styles particularly originating from the African Diaspora. This love of and interest in dance is what drove their project.  
-
 {% include contributors-gallery.html %}
 
-### References
+## References
 
 [^1]: Abraham, Kyle. *Blurring Boundaries: Urban Street Meets Contemporary Dance*. Leicester: Serendipity, 2016. Print.
 
@@ -56,5 +52,3 @@ Both Bria and Naomi dance and have been dancing together with Rhythm N' Motion, 
 [^9]: Wagoner, Mackenzie. 2019. “The Dance Studio Where Stars Are Born.” *Vogue*. March 6, 2019. [https://www.vogue.com/projects/13549260/millennium-dance-complex-los-angeles/](https://www.vogue.com/projects/13549260/millennium-dance-complex-los-angeles/).
 
 [^10]: Wakim, Marielle. 2017. “This L.A. Studio Is Making the Most Jawdropping Dance Videos Los Angeles Magazine.” *Los Angeles Magazine* (blog). February 6, 2017. [https://www.lamag.com/culturefiles/l-studio-making-jawdropping-dance-videos/](https://www.lamag.com/culturefiles/l-studio-making-jawdropping-dance-videos/).
-
-

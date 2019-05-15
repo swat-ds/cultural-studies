@@ -130,4 +130,37 @@ $(document).ready(function() {
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
+
+  // instagram widget
+
+    $.ajax({
+    url: 'https://www.instagram.com/race_and_rupaul/',
+    dataType: 'html'
+  }).done(function(data){
+
+    // kludgey but works! thanks [pablo](https://stackoverflow.com/users/9487894/pablo)
+    data = JSON.parse(data.split("window._sharedData = ")[1].split(";</script>")[0]).entry_data.ProfilePage[0];
+
+    console.log(data)
+
+    var el = $('#instagram-feed');          
+    var thumbs = data.graphql.user.edge_owner_to_timeline_media.edges;
+
+    thumbs.forEach(function(v,i) {
+
+      var thumb_url = v.node.thumbnail_resources[1].src;
+      var post_url = "https://instagram.com/p/" + v.node.shortcode;
+
+      // var caption = v.node.edge_media_to_caption.edges[0].node.text
+
+      // console.log(caption)
+
+      var post = $('<a>').attr('href', post_url)
+          .addClass('post');
+          post.append('<div>').find('div')
+          .css('background-image', 'url(' + '"' + thumb_url + '")');
+
+      el.append(post);
+    });
+  });
 });
