@@ -18,7 +18,7 @@ Please contact bmani1@swarthmore.edu with more questions about this digital port
 
 <hr />
 
-#### Contributors
+### Contributors
 
 - **Bakirathi Mani** is Associate Professor in the Department of English Literature and Co-ordinator of the Gender and Sexuality Studies program at Swarthmore College.  She is the author of *Aspiring to Home: South Asians in America* (Stanford University Press, 2012), and *Haunting Visions: South Asian Diasporic Visual and Exhibition Cultures* (under contract with Duke University Press). She teaches courses in Asian American cultural studies, transnational feminist/queer studies, and cultural studies of globalization and empire.
 
